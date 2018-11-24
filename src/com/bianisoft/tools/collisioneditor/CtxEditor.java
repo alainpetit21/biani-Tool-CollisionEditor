@@ -43,7 +43,7 @@ import com.bianisoft.engine.backgrounds.Background;
 import com.bianisoft.engine.Camera;
 import com.bianisoft.engine.Context;
 import com.bianisoft.engine.PhysObj;
-import com.bianisoft.engine.manager.physic.Line;
+import com.bianisoft.engine.manager.Physic.Line;
 
 
 public class CtxEditor extends Context{
